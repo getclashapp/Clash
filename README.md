@@ -1,2 +1,22 @@
-# Clash
-Clash
+# Clash 客户端导航 (2026年6月最新)
+
+- 本项目收录 `Clash` 和 `Clash Meta(Mihomo)` 内核的主流客户端的实时更新情况。
+- 由于不可抗力，本项目可能随时消失。建议 `Fork` 本仓库以永久保存，建议 `Star` 以掌握更新动态。
+
+| 客户端 | 最新版本 | 更新于 | Win | Mac | 安卓/鸿蒙 | Linux | 仓库 | 教程官网 | 是否推荐 |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Clash Verge Rev** | ![Ver](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/clash-verge-rev/clash-verge-rev&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⭐ 推荐 |
+| **FlClash** | ![Ver](https://img.shields.io/github/v/release/chen08209/FlClash?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/chen08209/FlClash&label=) | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/chen08209/FlClash/releases) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⭐ 推荐 |
+| **Clash Meta for Android** | ![Ver](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/MetaCubeX/ClashMetaForAndroid&label=) | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ✅ |
+| **Clash Mi** | ![Ver](https://img.shields.io/github/v/release/KaringX/clashmi?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/KaringX/clashmi&label=) | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ✅ |
+| **Mihomo Party** | ![Ver](https://img.shields.io/github/v/release/mihomo-party-org/mihomo-party?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/mihomo-party-org/mihomo-party&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/mihomo-party-org/mihomo-party/releases) | — | ✅ |
+| **GUI.for.Clash** | ![Ver](https://img.shields.io/github/v/release/GUI-for-Cores/GUI.for.Clash?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/GUI-for-Cores/GUI.for.Clash&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | — | ✅ |
+| **Pandora-Box** | ![Ver](https://img.shields.io/github/v/release/snakem982/Pandora-Box?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/snakem982/Pandora-Box&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/snakem982/Pandora-Box/releases) | — | — |
+| **Nyanpasu** | ![Ver](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?label=&color=lightgrey) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/libnyanpasu/clash-nyanpasu&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/LibNyanpasu/ClashNyanpasu) | — | — |
+| **v2rayN** | ![Ver](https://img.shields.io/github/v/release/2dust/v2rayN?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/2dust/v2rayN&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/2dust/v2rayN/releases) | — | ✅ |
+| **v2rayNG** | ![Ver](https://img.shields.io/github/v/release/2dust/v2rayNG?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.lqjroy1419.workers.dev/2dust/v2rayNG&label=) | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/2dust/v2rayNG/releases) | — | ✅ |
+| **Clash for Windows** | ![Static](https://img.shields.io/badge/v0.20.39-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-download/Clash-for-Windows) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⚠️ 停更 |
+| **Clash for Android** | ![Static](https://img.shields.io/badge/v2.5.12-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-download/Clash-for-Android) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⚠️ 停更 |
+| **ClashX** | ![Static](https://img.shields.io/badge/v1.118.0-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-download/ClashX) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⚠️ 停更 |
+| **ClashX Pro** | ![Static](https://img.shields.io/badge/v1.118.1-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-download/ClashX-Pro) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⚠️ 停更 |
+| **Clash Verge** (旧) | ![Static](https://img.shields.io/badge/v1.3.8-lightgrey) | ![Static](https://img.shields.io/badge/已停更-lightgrey) | ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/zzzgydi/clash-verge/releases) | ![](https://img.shields.io/badge/高速下载-lightgrey) | ⚠️ 停更 |
